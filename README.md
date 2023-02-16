@@ -100,7 +100,7 @@ In order to run this project you need:
 </ul>
 <ul>
     <li><p>Git and a GitHub account</p></li>
-</u>
+</ul>
 
 ### Setup
 
@@ -120,7 +120,7 @@ Install this project with:
 
 <ul>
     <li><p>You don't need install this project.</p></li>
-</u>
+</ul>
 
 ### Usage
 
