@@ -112,7 +112,7 @@ Clone this repository to your desired folder:
 <p>or you can</p>
 <ul>
     <li><p>Open your terminal and clone the repo with this command "cd my-folder git clone git@github.com:myaccount/my-project.git"</p></li>
-</u>
+</ul>
 
 ### Install
 
